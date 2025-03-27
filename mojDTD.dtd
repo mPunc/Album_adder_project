@@ -1,0 +1,14 @@
+<!ELEMENT datum (dogadjaj, grad, kazaliste+)>
+<!ELEMENT dogadjaj (#PCDATA)>
+<!ELEMENT grad (#PCDATA)>
+<!ELEMENT kazaliste (mjesto, adresa, telefon+, predstava+, popratni_program?)>
+<!ELEMENT mjesto (#PCDATA)>
+<!ELEMENT adresa (#PCDATA)>
+<!ELEMENT telefon (#PCDATA)>
+<!ELEMENT predstava (vrijeme, dvorana?, autor?, ime)>
+<!ELEMENT vrijeme (#PCDATA)>
+<!ELEMENT dvorana (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT ime (#PCDATA)>
+<!ELEMENT popratni_program (predstava+)>
+<!ATTLIST ime ulaz CDATA "besplatan">

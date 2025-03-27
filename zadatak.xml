@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datum SYSTEM "mojDTD.dtd">
+<datum>
+  <dogadjaj>Noć kazališta 21. 11. - program i raspored ime </dogadjaj>
+  <grad>Zagreb</grad>
+  
+  <kazaliste>
+	<mjesto>Centar mladih Ribnjak i Radionica "Punkošipak"</mjesto>
+	<adresa>Park Ribnjak 1</adresa>
+	<telefon>tel.: 01 4814 734 </telefon>
+	<predstava>
+	  <vrijeme>20,30h</vrijeme>
+	  <autor>Dorta Jagić</autor>
+	  <ime ulaz="besplatan">ŽIVOTINJSKI PROCES</ime>
+	</predstava>
+  </kazaliste>
+  
+  <kazaliste>
+  <mjesto>Dječje kazalište Dubrava</mjesto>
+  <adresa>Cerska 1</adresa>
+  <telefon>01 2050 038</telefon>
+  <telefon>01 2050 039</telefon>
+  <telefon>01 2050 030</telefon>
+  <predstava>
+	<vrijeme>19,00h</vrijeme>
+	<dvorana>Plesna dvorana</dvorana>
+	<autor>Sara Hribar</autor>
+	<ime ulaz="besplatan">RAMPUŠ BAJKA (gostuje Tigar teatar)</ime>
+  </predstava>
+  
+  <predstava>
+	<vrijeme>20,00h</vrijeme>
+	<dvorana>Velika dvorana</dvorana>
+	<autor>Mario Kovač</autor>
+	<ime ulaz="besplatan">POVUCI-POTEGNI</ime>
+  </predstava>
+ 
+ <predstava> 
+ 	<vrijeme>22,00h</vrijeme>
+	<dvorana>Velika dvorana</dvorana>
+	<autor> Multimedijalni projekt grupe autora</autor>
+	<ime ulaz="besplatan">SRCE (izvodi Grupa A Dramskog studija DKD-a)</ime>
+ </predstava>
+
+ <predstava> 
+ 	<vrijeme>22,30h</vrijeme>
+	<dvorana>Parkiralište pored Stare tržnice</dvorana>
+	<autor>Bruno Margetić</autor>
+	<ime ulaz="besplatan">MI OVDJE NJEGUJEMO DOBRE ODNOSE (izvodi Grupa DUB Dramskog studija DKD-a)</ime>
+</predstava>
+ 
+  <predstava> 
+ 	<vrijeme>00,30h</vrijeme>
+	<dvorana> Velika dvorana</dvorana>
+	<autor>R. Spregelburd</autor>
+	<ime ulaz="besplatan">EKSTRAVAGANCIJA (gostuje Kufer i Teatar iTD)</ime>
+ </predstava>
+    
+  <popratni_program>
+   <predstava>
+	   <vrijeme>20,45h</vrijeme>
+	  <dvorana>Plesna dvorana</dvorana>
+	  <ime ulaz="besplatan">DJEČJI DISCO-HLAPIĆEV DISCO (DJ Xed)</ime>
+  </predstava>
+   <predstava>
+	   <vrijeme>23,30h</vrijeme>
+	  <dvorana>Foyer</dvorana>
+	  <ime ulaz="besplatan">Stand-up comedy program: OTVORENI MIKROFON, voditeljica Marina Orsag, izvođači: Tihomir Paravina, Goran Furjan i Mirko Fabris</ime>
+  </predstava>
+   <predstava>
+	   <vrijeme>00,00h</vrijeme>
+	  <dvorana>Foyer</dvorana>
+	  <ime ulaz="besplatan">Trio SEX MOTEL</ime>
+  </predstava>
+   <predstava>
+	   <vrijeme>19,00-00,00h</vrijeme>
+	  <dvorana>Foyer</dvorana>
+	  <autor></autor>
+	  <ime ulaz="besplatan">degustacije</ime>
+  </predstava>
+  </popratni_program>
+  </kazaliste>
+  
+    
+  <kazaliste>
+  <mjesto>Glumačka družina Histrion</mjesto>
+  <adresa>Ilica 90</adresa>
+  <telefon>01 5496 386</telefon>
+  <telefon>01 5496 387</telefon>
+  <predstava>
+	  <vrijeme>20,00h</vrijeme>
+	  <autor>A. Bukvić</autor>
+	  <ime ulaz="30 kn">DJECA SA CNN-a</ime>
+  </predstava>
+  </kazaliste>
+  
+  
+  <kazaliste>
+  <mjesto>Gradsko kazalište Žar ptica</mjesto>
+  <adresa>Bijenička 97</adresa>
+  <telefon>01 2347 228</telefon>
+  <predstava>
+	  <vrijeme>18,00h</vrijeme>
+	  <autor>Sunny Suninsky</autor>
+	  <ime ulaz="besplatan">BILO JEDNOM JEDNO VRIJEME</ime>
+  </predstava>
+  </kazaliste>
+  
+  <kazaliste>
+  <mjesto>Hrvatsko narodno kazalište u Zagrebu</mjesto>
+  <adresa>Trg Maršala Tita 15</adresa>
+  <telefon>01 4888 410</telefon>
+  <predstava>
+	  <vrijeme>19,30h</vrijeme>
+	  <autor>Jean-Baptiste Molière-Jean-Baptiste Lully</autor>
+	  <ime ulaz="besplatan">GRAĐANIN PLEMIĆ</ime>
+   </predstava>
+  <predstava>
+	  <vrijeme>23,30h</vrijeme>
+	  <dvorana>Foyer HNK</dvorana>
+	  <autor></autor>
+	  <ime ulaz="besplatan">PONOĆNI KONCERT (Joseph Haydn: Klavirski trio u g molu, Felix Mendelssohn- Bartholdy: Konnzertstuecke za klarinet, bassethorn i klavir op.113)</ime>
+  </predstava>
+  
+  <popratni_program>
+   <predstava>
+	   <vrijeme>16,00-18,00h</vrijeme>
+	  <ime ulaz="besplatan">Razgledavanje kazališta uz stručno vodstvo</ime>
+  </predstava>
+  </popratni_program>
+  </kazaliste>
+  
+  <kazaliste>
+  <mjesto>Kazalište Merlin</mjesto>
+  <adresa>gostuje u Hrvatskom domu Petrinja</adresa>
+  <telefon>098 220 595</telefon>
+  <predstava>
+	  <vrijeme>11,00h</vrijeme>
+	  <autor>Tomislav Zajec</autor>
+	  <ime ulaz="besplatan">KAKO STE MIŠIĆI</ime>
+  </predstava>
+  </kazaliste>
+  
+  <kazaliste>
+  <mjesto>Kazalište Tvornica lutaka</mjesto>
+  <adresa>MMC Studio, Vlaška 92</adresa>
+  <telefon>098 614 977</telefon>
+  <predstava>
+	  <vrijeme>11,00h</vrijeme>
+	  <autor>Nives Madunić-Barišić</autor>
+	  <ime ulaz="besplatan">MALA ZELENA GUSJENICA</ime>
+  </predstava>
+  <predstava>
+	  <vrijeme>13,00h</vrijeme>
+	  <autor>Stanislav Pejković</autor>
+	  <ime ulaz="besplatan">LJUBAV NA POSLJEDNJI POGLED</ime>
+</predstava>
+  <predstava>
+	  <vrijeme>18,00h</vrijeme>
+	  <autor>Zvonimir Majdak</autor>
+	  <ime ulaz="besplatan">KUŽIŠ STARI MOJ</ime>
+  </predstava>
+  <predstava>
+	  <vrijeme>20,00h</vrijeme>
+	  <autor>Filip Šovagović:</autor>
+	  <ime ulaz="besplatan">RADIO TESLA</ime>
+  </predstava>
+  </kazaliste>
+ 
+  <kazaliste>
+  <mjesto>Kulturni centar Peščenica, Kazalište KNAP</mjesto>
+  <adresa>Ivanićgradska 41a</adresa>
+  <telefon>01 2303 122</telefon>
+  <predstava>
+	  <vrijeme>20,00h</vrijeme>
+	  <autor>Teatar Gaudeamus</autor>
+	  <ime ulaz="besplatan">JA MRZIM SHEK SHAE SCHE ŠEKSPIRA</ime>
+  </predstava>
+  
+  <popratni_program>
+   <predstava>
+	   <vrijeme>21,00h</vrijeme>
+	  <dvorana>Galerija događanja</dvorana>
+	  <ime ulaz="besplatan">Otvorenje izložbe "Kupujete s osmjehom?"</ime>
+  </predstava>
+  </popratni_program>
+ 
+  </kazaliste>
+</datum>

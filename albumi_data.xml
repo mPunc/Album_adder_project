@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<albumi_data>
+    <albumi razdoblje="80">
+        <album>
+            <naslov>Thriller</naslov>
+            <umjetnik tip="solo">Michael Jackson</umjetnik>
+            <zanr>Pop</zanr>
+            <godina>1982</godina>
+            <producenti>
+                <producent>Quincy Jones</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Back in Black</naslov>
+            <umjetnik tip="grupa">AC/DC</umjetnik>
+            <zanr>Hard Rock</zanr>
+            <godina>1980</godina>
+            <producenti>
+                <producent>Robert John "Mutt" Lange</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>The Joshua Tree</naslov>
+            <umjetnik tip="grupa">U2</umjetnik>
+            <zanr>Rock</zanr>
+            <godina>1987</godina>
+            <producenti>
+                <producent>Brian Eno</producent>
+                <producent>Daniel Lanois</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Like a Virgin</naslov>
+            <umjetnik tip="solo">Madonna</umjetnik>
+            <zanr>Pop</zanr>
+            <godina>1984</godina>
+            <producenti>
+                <producent>Nile Rodgers</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Appetite for Destruction</naslov>
+            <umjetnik tip="grupa">Guns N' Roses</umjetnik>
+            <zanr>Hard Rock</zanr>
+            <godina>1987</godina>
+            <producenti>
+                <producent>Mike Clink</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Born in the U.S.A.</naslov>
+            <umjetnik tip="solo">Bruce Springsteen</umjetnik>
+            <zanr>Rock</zanr>
+            <godina>1984</godina>
+            <producenti>
+                <producent>Bruce Springsteen</producent>
+                <producent>Jon Landau</producent>
+                <producent>Chuck Plotkin</producent>
+                <producent>Steve Van Zandt</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Hounds of Love</naslov>
+            <umjetnik tip="solo">Kate Bush</umjetnik>
+            <zanr>Art Pop</zanr>
+            <godina>1985</godina>
+            <producenti>
+                <producent>Kate Bush</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Sign o' the Times</naslov>
+            <umjetnik tip="solo">Prince</umjetnik>
+            <zanr>Funk, Rock, R&#38;B</zanr>
+            <godina>1987</godina>
+            <producenti>
+                <producent>Prince</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Disintegration</naslov>
+            <umjetnik tip="grupa">The Cure</umjetnik>
+            <zanr>Gothic Rock</zanr>
+            <godina>1989</godina>
+            <producenti>
+                <producent>Robert Smith</producent>
+                <producent>David M. Allen</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Brothers in Arms</naslov>
+            <umjetnik tip="grupa">Dire Straits</umjetnik>
+            <zanr>Rock</zanr>
+            <godina>1985</godina>
+            <producenti>
+                <producent>Mark Knopfler</producent>
+                <producent>Neil Dorfsman</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+    </albumi>
+
+    <albumi razdoblje="90">
+        <album>
+            <naslov>Nevermind</naslov>
+            <umjetnik tip="grupa">Nirvana</umjetnik>
+            <zanr>Grunge</zanr>
+            <godina>1991</godina>
+            <producenti>
+                <producent>Butch Vig</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>OK Computer</naslov>
+            <umjetnik tip="grupa">Radiohead</umjetnik>
+            <zanr>Alternative Rock</zanr>
+            <godina>1997</godina>
+            <producenti>
+                <producent>Nigel Godrich</producent>
+                <producent>Radiohead</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Ten</naslov>
+            <umjetnik tip="grupa">Pearl Jam</umjetnik>
+            <zanr>Grunge</zanr>
+            <godina>1991</godina>
+            <producenti>
+                <producent>Rick Parashar</producent>
+                <producent>Pearl Jam</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>The Miseducation of Lauryn Hill</naslov>
+            <umjetnik tip="solo">Lauryn Hill</umjetnik>
+            <zanr>R&#38;B, Hip-Hop</zanr>
+            <godina>1998</godina>
+            <producenti>
+                <producent>Lauryn Hill</producent>
+                <producent>Che Pope</producent>
+                <producent>Vada Nobles</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Metallica (The Black Album)</naslov>
+            <umjetnik tip="grupa">Metallica</umjetnik>
+            <zanr>Heavy Metal</zanr>
+            <godina>1991</godina>
+            <producenti>
+                <producent>Bob Rock</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>The Chronic</naslov>
+            <umjetnik tip="solo">Dr. Dre</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>1992</godina>
+            <producenti>
+                <producent>Dr. Dre</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Jagged Little Pill</naslov>
+            <umjetnik tip="solo">Alanis Morissette</umjetnik>
+            <zanr>Alternative Rock</zanr>
+            <godina>1995</godina>
+            <producenti>
+                <producent>Glen Ballard</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Superunknown</naslov>
+            <umjetnik tip="grupa">Soundgarden</umjetnik>
+            <zanr>Grunge</zanr>
+            <godina>1994</godina>
+            <producenti>
+                <producent>Michael Beinhorn</producent>
+                <producent>Soundgarden</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Ready to Die</naslov>
+            <umjetnik tip="solo">The Notorious B.I.G.</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>1994</godina>
+            <producenti>
+                <producent>Sean Combs</producent>
+                <producent>Easy Mo Bee</producent>
+                <producent>DJ Premier</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Odelay</naslov>
+            <umjetnik tip="solo">Beck</umjetnik>
+            <zanr>Alternative Rock</zanr>
+            <godina>1996</godina>
+            <producenti>
+                <producent>Beck</producent>
+                <producent>The Dust Brothers</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+    </albumi>
+
+    <albumi razdoblje="2000">
+        <album>
+            <naslov>Kid A</naslov>
+            <umjetnik tip="grupa">Radiohead</umjetnik>
+            <zanr>Experimental Rock</zanr>
+            <godina>2000</godina>
+            <producenti>
+                <producent>Nigel Godrich</producent>
+                <producent>Radiohead</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>The Marshall Mathers LP</naslov>
+            <umjetnik tip="solo">Eminem</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2000</godina>
+            <producenti>
+                <producent>Dr. Dre</producent>
+                <producent>Mel-Man</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Yankee Hotel Foxtrot</naslov>
+            <umjetnik tip="grupa">Wilco</umjetnik>
+            <zanr>Alternative Rock</zanr>
+            <godina>2002</godina>
+            <producenti>
+                <producent>Wilco</producent>
+                <producent>Jim O'Rourke</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Is This It</naslov>
+            <umjetnik tip="grupa">The Strokes</umjetnik>
+            <zanr>Indie Rock</zanr>
+            <godina>2001</godina>
+            <producenti>
+                <producent>Gordon Raphael</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Speakerboxxx/The Love Below</naslov>
+            <umjetnik tip="grupa">OutKast</umjetnik>
+            <zanr>Hip-Hop, Funk</zanr>
+            <godina>2003</godina>
+            <producenti>
+                <producent>André 3000</producent>
+                <producent>Big Boi</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Elephant</naslov>
+            <umjetnik tip="grupa">The White Stripes</umjetnik>
+            <zanr>Garage Rock</zanr>
+            <godina>2003</godina>
+            <producenti>
+                <producent>Jack White</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Late Registration</naslov>
+            <umjetnik tip="solo">Kanye West</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2005</godina>
+            <producenti>
+                <producent>Kanye West</producent>
+                <producent>Jon Brion</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Back to Black</naslov>
+            <umjetnik tip="solo">Amy Winehouse</umjetnik>
+            <zanr>Soul, R&#38;B</zanr>
+            <godina>2006</godina>
+            <producenti>
+                <producent>Mark Ronson</producent>
+                <producent>Salaam Remi</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Funeral</naslov>
+            <umjetnik tip="grupa">Arcade Fire</umjetnik>
+            <zanr>Indie Rock</zanr>
+            <godina>2004</godina>
+            <producenti>
+                <producent>Arcade Fire</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>In Rainbows</naslov>
+            <umjetnik tip="grupa">Radiohead</umjetnik>
+            <zanr>Alternative Rock</zanr>
+            <godina>2007</godina>
+            <producenti>
+                <producent>Nigel Godrich</producent>
+                <producent>Radiohead</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+    </albumi>
+
+    <albumi razdoblje="2010">
+        <album>
+            <naslov>My Beautiful Dark Twisted Fantasy</naslov>
+            <umjetnik tip="solo">Kanye West</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2010</godina>
+            <producenti>
+                <producent>Kanye West</producent>
+                <producent>Mike Dean</producent>
+                <producent>RZA</producent>
+                <producent>No I.D.</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>To Pimp a Butterfly</naslov>
+            <umjetnik tip="solo">Kendrick Lamar</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2015</godina>
+            <producenti>
+                <producent>Dr. Dre</producent>
+                <producent>Terrace Martin</producent>
+                <producent>Thundercat</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>good kid, m.A.A.d city</naslov>
+            <umjetnik tip="solo">Kendrick Lamar</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2012</godina>
+            <producenti>
+                <producent>Dr. Dre</producent>
+                <producent>Tha Bizness</producent>
+                <producent>Just Blaze</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Blonde</naslov>
+            <umjetnik tip="solo">Frank Ocean</umjetnik>
+            <zanr>R&#38;B</zanr>
+            <godina>2016</godina>
+            <producenti>
+                <producent>Frank Ocean</producent>
+                <producent>Malay</producent>
+                <producent>James Blake</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Melodrama</naslov>
+            <umjetnik tip="solo">Lorde</umjetnik>
+            <zanr>Pop</zanr>
+            <godina>2017</godina>
+            <producenti>
+                <producent>Jack Antonoff</producent>
+                <producent>Lorde</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Random Access Memories</naslov>
+            <umjetnik tip="grupa">Daft Punk</umjetnik>
+            <zanr>Electronic</zanr>
+            <godina>2013</godina>
+            <producenti>
+                <producent>Daft Punk</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Blackstar</naslov>
+            <umjetnik tip="solo">David Bowie</umjetnik>
+            <zanr>Art Rock</zanr>
+            <godina>2016</godina>
+            <producenti>
+                <producent>David Bowie</producent>
+                <producent>Tony Visconti</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Currents</naslov>
+            <umjetnik tip="grupa">Tame Impala</umjetnik>
+            <zanr>Psychedelic Rock</zanr>
+            <godina>2015</godina>
+            <producenti>
+                <producent>Kevin Parker</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>CTRL</naslov>
+            <umjetnik tip="solo">SZA</umjetnik>
+            <zanr>R&#38;B</zanr>
+            <godina>2017</godina>
+            <producenti>
+                <producent>SZA</producent>
+                <producent>Anthony Tiffith</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>A Moon Shaped Pool</naslov>
+            <umjetnik tip="grupa">Radiohead</umjetnik>
+            <zanr>Alternative Rock</zanr>
+            <godina>2016</godina>
+            <producenti>
+                <producent>Nigel Godrich</producent>
+                <producent>Radiohead</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+    </albumi>
+
+    <albumi razdoblje="2020">
+        <album>
+            <naslov>Future Nostalgia</naslov>
+            <umjetnik tip="solo">Dua Lipa</umjetnik>
+            <zanr>Pop</zanr>
+            <godina>2020</godina>
+            <producenti>
+                <producent>Ian Kirkpatrick</producent>
+                <producent>Stuart Price</producent>
+                <producent>The Monsters &#38; Strangerz</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>RTJ4</naslov>
+            <umjetnik tip="grupa">Run the Jewels</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2020</godina>
+            <producenti>
+                <producent>El-P</producent>
+                <producent>Little Shalimar</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>folklore</naslov>
+            <umjetnik tip="solo">Taylor Swift</umjetnik>
+            <zanr>Indie Folk</zanr>
+            <godina>2020</godina>
+            <producenti>
+                <producent>Aaron Dessner</producent>
+                <producent>Jack Antonoff</producent>
+                <producent>Taylor Swift</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Sour</naslov>
+            <umjetnik tip="solo">Olivia Rodrigo</umjetnik>
+            <zanr>Pop, Pop Rock</zanr>
+            <godina>2021</godina>
+            <producenti>
+                <producent>Dan Nigro</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Motomami</naslov>
+            <umjetnik tip="solo">Rosalía</umjetnik>
+            <zanr>Experimental Pop</zanr>
+            <godina>2022</godina>
+            <producenti>
+                <producent>Rosalía</producent>
+                <producent>El Guincho</producent>
+                <producent>Noah Goldstein</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Mr. Morale &#38; The Big Steppers</naslov>
+            <umjetnik tip="solo">Kendrick Lamar</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2022</godina>
+            <producenti>
+                <producent>Kendrick Lamar</producent>
+                <producent>Soundwave</producent>
+                <producent>Pharrell Williams</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Renaissance</naslov>
+            <umjetnik tip="solo">Beyoncé</umjetnik>
+            <zanr>Dance, R&#38;B</zanr>
+            <godina>2022</godina>
+            <producenti>
+                <producent>Beyoncé</producent>
+                <producent>The-Dream</producent>
+                <producent>Honey Dijon</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Did You Know That There's a Tunnel Under Ocean Blvd</naslov>
+            <umjetnik tip="solo">Lana Del Rey</umjetnik>
+            <zanr>Alternative</zanr>
+            <godina>2023</godina>
+            <producenti>
+                <producent>Jack Antonoff</producent>
+                <producent>Drew Erickson</producent>
+                <producent>Zach Dawes</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>Blue Rev</naslov>
+            <umjetnik tip="grupa">Alvvays</umjetnik>
+            <zanr>Indie Rock, Dream Pop</zanr>
+            <godina>2022</godina>
+            <producenti>
+                <producent>Shawn Everett</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+        <album>
+            <naslov>UTOPIA</naslov>
+            <umjetnik tip="solo">Travis Scott</umjetnik>
+            <zanr>Hip-Hop</zanr>
+            <godina>2023</godina>
+            <producenti>
+                <producent>Travis Scott</producent>
+                <producent>Mike Dean</producent>
+                <producent>WondaGurl</producent>
+            </producenti>
+            <slika_link></slika_link>
+        </album>
+    </albumi>
+</albumi_data>
