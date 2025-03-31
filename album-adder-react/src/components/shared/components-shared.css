@@ -1,0 +1,22 @@
+:root {
+    --primary-color: #dbb21f;
+    --secondary-color: black;
+}
+.header-container {
+    display: grid;
+    gap: clamp(15px, 2vw, 36px);
+    grid-template-rows: 100%;
+    grid-template-columns: repeat(9, auto);
+    align-items: center;
+    justify-content: center;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.header-main-logo {
+
+}
+
+.header-nav-link {
+
+}
