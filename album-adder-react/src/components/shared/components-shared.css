@@ -1,7 +1,7 @@
 :root {
     --primary-color: #dbb21f;
-    --secondary-color: black;
-    --third-color: rgba(129, 0, 250, 0.74);
+    --secondary-color: #1F48DB;
+    --third-color: rgba(0, 0, 0, 0.67);
 }
 
 * {
@@ -16,7 +16,7 @@
     align-items: center;
     justify-content: center;
     background-color: var(--primary-color);
-    color: var(--secondary-color);
+    color: black;
 }
 
 .header-main-logo {
@@ -28,7 +28,7 @@
 }
 
 .album-card-container-main {
-    margin-left: 10%;
+    /*margin-left: 10%;*/
     width: 80%;
 
     display: flex;
@@ -36,6 +36,8 @@
     justify-content: space-around;
 
     flex-direction: row;
+
+    background-color: var(--third-color);
 }
 /*
 .album-card-container-main .album-card-main {
@@ -60,7 +62,8 @@
     border-radius: clamp(24px, 2.5vw, 50px);
     margin: clamp(3px, 0.28vw, 8px);
     
-    background-color: var(--third-color);
+    background-color: var(--secondary-color);
+    color: white;
 }
 
 .card-title {

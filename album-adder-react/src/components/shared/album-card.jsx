@@ -35,6 +35,9 @@ export function AlbumCard({ oneAlbumDataXml }) {
         producersArray.forEach(prod => producers += prod.childNodes[0].nodeValue + ", ")
         producers = producers.replace(/,\s*$/, ""); //This regular expression will remove the last comma and any whitespace after it
         
+        const favButton = (x) => {
+            console.log(oneAlbumDataXml.getElementsByTagName("id")[0]?.childNodes[0].nodeValue + " " + x);
+        };
 
         return (
             <div className='album-card-main'>
@@ -44,6 +47,8 @@ export function AlbumCard({ oneAlbumDataXml }) {
                 <div>Genre: {oneAlbumDataXml.getElementsByTagName("zanr")[0]?.childNodes[0].nodeValue || "N/A"}</div>
                 <div>Year: {oneAlbumDataXml.getElementsByTagName("godina")[0]?.childNodes[0].nodeValue || "N/A"}</div>
                 <div>Producers: {producers || "N/A"}</div>
+                
+                <button onClick={() => {favButton("test")}}>Log ID</button>
             </div>
         );
     } catch (error) {
