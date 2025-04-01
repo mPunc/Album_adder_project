@@ -1,0 +1,13 @@
+<!ELEMENT albumi_data (albumi*)>
+<!ELEMENT albumi (album+)>
+<!ATTLIST albumi razdoblje CDATA #REQUIRED>
+<!ELEMENT album (id, naslov, umjetnik, zanr, godina, producenti, slika_link)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT naslov (#PCDATA)>
+<!ELEMENT umjetnik (#PCDATA)>
+<!ATTLIST umjetnik tip (solo | grupa) #REQUIRED>
+<!ELEMENT zanr (#PCDATA)>
+<!ELEMENT godina (#PCDATA)>
+<!ELEMENT producenti (producent+)>
+<!ELEMENT producent (#PCDATA)>
+<!ELEMENT slika_link (#PCDATA)>
