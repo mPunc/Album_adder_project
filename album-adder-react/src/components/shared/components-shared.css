@@ -1,7 +1,13 @@
 :root {
     --primary-color: #dbb21f;
     --secondary-color: black;
+    --third-color: rgba(129, 0, 250, 0.74);
 }
+
+* {
+    box-sizing: border-box;
+}
+
 .header-container {
     display: grid;
     gap: clamp(15px, 2vw, 36px);
@@ -19,4 +25,44 @@
 
 .header-nav-link {
 
+}
+
+.album-card-container-main {
+    margin-left: 10%;
+    width: 80%;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    flex-direction: row;
+}
+/*
+.album-card-container-main .album-card-main {
+    background-color: wheat;
+}
+*/
+.album-card-main {
+    
+    /*width: calc(1/3 * 100%);
+    
+    */
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    flex-direction: column;
+    align-items: start;
+    
+    padding: clamp(14px, 2vw, 40px);
+    border: 3px solid black;
+    border-radius: clamp(24px, 2.5vw, 50px);
+    margin: clamp(3px, 0.28vw, 8px);
+    
+    background-color: var(--third-color);
+}
+
+.card-title {
+    margin: 0;
 }
